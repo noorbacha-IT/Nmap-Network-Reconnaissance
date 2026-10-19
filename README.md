@@ -4,7 +4,7 @@ Hands-on cybersecurity and networking exploring Nmap, host discovery, network sc
 
 ## Overview
 
-This repository documents practical exercises and learning notes related to network reconnaissance and host discovery. It includes work from networking assignments and supporting lab experiments designed to develop a better understanding of how devices can be discovered and analyzed on a network.
+This repository documents practical exercises and learning notes related to network reconnaissance and host discovery. It includes work from networking and supporting experiments designed to develop a better understanding of how devices can be discovered and analyzed on a network.
 
 The goal is to build practical knowledge of network visibility, reconnaissance techniques, and the fundamentals of network security.
 
@@ -36,7 +36,6 @@ The goal is to build practical knowledge of network visibility, reconnaissance t
 Study methods used to determine whether hosts are reachable on a network and understand how discovery results can vary depending on network configuration and filtering.
 
 
-
 ### 2. ARP Analysis
 
 Explore ARP requests in a simulated local network and observe which devices receive or process the requests.
@@ -61,8 +60,6 @@ Review Nmap's ICMP discovery options:
 
 The actual response depends on host configuration, firewall rules, and network policies.
 
-<img width="975" height="289" alt="image" src="https://github.com/user-attachments/assets/979af635-7c3e-4fc3-bb9c-015a5e11b63e" />
-
 
 ### 4. TCP-Based Discovery
 
@@ -82,7 +79,6 @@ These options help demonstrate how TCP-based probes can provide information abou
 
 Practice interpreting network ranges and CIDR notation.
 
-Example from the assignment:
 
 - Address: `10.10.12.13/29`
 - Corresponding network: `10.10.12.8/29`
@@ -92,6 +88,7 @@ Example from the assignment:
 
 This example illustrates how a subnet prefix determines the size of a network.
 
+<img width="975" height="289" alt="image" src="https://github.com/user-attachments/assets/979af635-7c3e-4fc3-bb9c-015a5e11b63e" />
 <img width="975" height="157" alt="image" src="https://github.com/user-attachments/assets/2e576792-6f7f-4935-81e0-2f1d46f30641" />
 <img width="975" height="423" alt="image" src="https://github.com/user-attachments/assets/2878dab3-d7d2-4ba2-bede-c0d9ebb657ee" />
 
